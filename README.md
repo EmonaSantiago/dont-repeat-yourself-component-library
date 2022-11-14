@@ -2,7 +2,8 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# Component Library - CMD MIDTERM
+👩🏻‍💻 In progress... CHECK THE [WIKI!](https://github.com/EmonaSantiago/dont-repeat-yourself-component-library/wiki)
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
 ## Inhoudsopgave
