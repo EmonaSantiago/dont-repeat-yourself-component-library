@@ -5,6 +5,8 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 # Component Library - CMD MIDTERM
 👩🏻‍💻 In progress... CHECK THE [WIKI!](https://github.com/EmonaSantiago/dont-repeat-yourself-component-library/wiki)
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
+<img width="907" alt="Schermafbeelding 2022-11-14 om 18 02 26" src="https://user-images.githubusercontent.com/90447045/201721580-7b0cb4d4-f55a-4bea-8f1c-ae5fd7ccb3bf.png">
+
 
 ## Inhoudsopgave
 
