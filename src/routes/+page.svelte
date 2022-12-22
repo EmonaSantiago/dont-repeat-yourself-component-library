@@ -1,6 +1,0 @@
-<script>
-  import "./+layout.svelte";
-  import "./../styles/global.css";
-</script>
-
-<h1>HELLO</h1>
